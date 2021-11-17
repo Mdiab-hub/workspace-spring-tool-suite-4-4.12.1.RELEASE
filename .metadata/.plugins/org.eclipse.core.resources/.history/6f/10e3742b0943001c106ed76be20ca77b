@@ -1,0 +1,5 @@
+package com.diab.demo.dao;
+
+public interface AlienRepo {
+
+}

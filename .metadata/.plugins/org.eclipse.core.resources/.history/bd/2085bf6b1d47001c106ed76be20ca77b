@@ -1,0 +1,5 @@
+package com.diab.demo.model;
+
+public class Alien {
+
+}

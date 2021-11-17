@@ -1,0 +1,7 @@
+INDEX VERSION 1.131
+/Users/pscbus_108/Documents/workspace-spring-tool-suite-4-4.12.1.RELEASE/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2326042174.index
+/springbootjpa/src/main/java
+/Users/pscbus_108/Documents/workspace-spring-tool-suite-4-4.12.1.RELEASE/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/367272505.index
+/MyWebApp/src/main/java
+/Users/pscbus_108/Documents/workspace-spring-tool-suite-4-4.12.1.RELEASE/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2062195165.index
+/MyWebApp/src/main/java

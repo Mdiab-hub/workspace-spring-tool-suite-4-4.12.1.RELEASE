@@ -1,0 +1,5 @@
+insert into alien values (101, 'Diab', 'Java');
+insert into alien values (102, 'Diaz', 'Android'); 
+insert into alien values (103, 'Diav', 'Walmart'); 
+insert into alien values (104, 'Diap', 'Python'); 
+insert into alien values (105, 'Diah', 'Java'); 
